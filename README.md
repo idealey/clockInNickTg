@@ -5,7 +5,7 @@ The script makes your Telegram nickname more interactive by adding a clock to it
 # Easy start
 Just clone the repository:
 ```bash
-git clone https://github.com/SerhiiKuzmenko/clockInNickTg
+git clone https://github.com/idealey/clockInNickTg
 ```
 To work with the script, you need to get your API_ID and API_HASH telegram. 
 And also in the code, initialize the corresponding variables with your data: API_ID, API_HASH, timeZone, nickname. 
